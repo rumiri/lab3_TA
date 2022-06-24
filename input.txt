@@ -1,0 +1,11 @@
+A B
+B C
+C A
+C (A)
+A A+B
+B B*C
+C A
+A C
+C a
+C b
+Combination: (a+b)*a+b
