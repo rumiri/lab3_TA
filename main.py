@@ -15,8 +15,8 @@ def rec(data_mass, s):
 def read_data():
     data = []
     res = ""
-    with open("input.txt") as f:
-        r_data = f.read()
+    with open("input.txt") as file1:
+        r_data = file1.read()
     r_data = r_data.split('\n')
 
     if r_data[len(r_data) - 1] == "":

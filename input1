@@ -1,0 +1,8 @@
+A B
+B C
+C A
+A A+B
+B B*C
+C a
+C b
+Combination: a+b
